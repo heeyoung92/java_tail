@@ -9,13 +9,7 @@ FILEPATH_0    // monitored file path
 
 POSPAHT_0		// file position path
 
-FILEPATH_1
 
-POSPAHT_1
-
-FILEPATH_2
-
-POSPAHT_2
 
 
 ##
